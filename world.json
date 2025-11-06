@@ -4,16 +4,16 @@
   "system": "dnd5e",
   "background": "Phandelver%20and%20Below%20Background.jpg",
   "joinTheme": "default",
-  "coreVersion": "12.331",
+  "coreVersion": "12.343",
   "scripts": [
     "scripts/hooks.js"
   ],
   "compatibility": {
     "minimum": "12",
-    "verified": "12.331"
+    "verified": "12.343"
   },
   "systemVersion": "3.3.1",
-  "lastPlayed": "Mon Mar 10 2025 20:32:18 GMT-0300 (Uruguay Standard Time)",
+  "lastPlayed": "Thu Nov 06 2025 01:46:16 GMT-0300 (Uruguay Standard Time)",
   "playtime": 73103,
   "packs": [
     {
